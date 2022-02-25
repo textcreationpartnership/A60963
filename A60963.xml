@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the Christian congregations of the peculiar people of God now reproached and persecuted by the name, and under the denomination of Quakers that grace, mercy and peace of God the Father, and the power of his his Christ be abundantly multiplyed and encreased among you all.</title>
+            <author>Salthouse, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60963</idno>
+            <idno type="STC">Wing S475AA</idno>
+            <idno type="STC">ESTC R214111</idno>
+            <idno type="EEBO-CITATION">99826328</idno>
+            <idno type="PROQUEST">99826328</idno>
+            <idno type="VID">30728</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30728)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1801:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the Christian congregations of the peculiar people of God now reproached and persecuted by the name, and under the denomination of Quakers that grace, mercy and peace of God the Father, and the power of his his Christ be abundantly multiplyed and encreased among you all.</title>
+                  <author>Salthouse, Thomas, 1630-1691.</author>
+                  <author>D. B. (Daniel Baker), fl. 1600-1660. aut</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Thomas Salthouse (who signs page seven) and Daniel Baker (who signs page eleven).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Identified as Wing T1332 (number cancelled) on UMI microfilm "Early English books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30728:1"/>
+            <pb n="1" facs="tcp:30728:1" rendition="simple:additions"/>
+            <head>To all the Chriſtian Congregations of the peculiar People of God now reproached and perſecuted by the Name, and un<g ref="char:EOLhyphen"/>der the denomination of <hi>Quakers,</hi> that Grace, Mercy and Peace of God the Father, and the Power of his Chriſt be abundantly multiplyed and encreaſed a<g ref="char:EOLhyphen"/>mong you all.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Ear Brethren and faithful Friends, unto whom it hath pleaſed God to make known the riches of the glory of the great Myſterie that hath been hid from the wiſe and learned; whoſe faces are turned towards <hi>Sion;</hi> and whoſe faith ſtands in the Power of God, who are come through great tribulations out of deſolation, and are turned to the chief Shepherd and Biſhop of your ſouls, in ſingleneſs of heart, in the form of a ſervant, and in the love of a brother do I hum<g ref="char:EOLhyphen"/>bly and heartily ſalure and ſend greeting unto you all, and as a worker together with you, I beſeech you all to ſtand faſt in the Liberty where Chriſt Jeſus hath made you free; &amp; let not ſo much as an inclination enter into your hearts of being again entangled with the old oppreſſive, Antichriſtian yoke of Bondage from which you are delivered; for what profit hath you in thoſe things whereof ye are now aſhamed? To what purpoſe did you worſhip God, when your fear towards him was taught by the Precepts of men? Did you not then
+<pb n="2" facs="tcp:30728:2"/>leave undone the things which you ought to have done; and do the things which you ought not to have done? And did you not then err in your hearts, and go aſtray like loſt ſheep? How did the falſe Prophet then lead you, whoſe right eye is utterly darkned? And how did the Merchants of the Earth make a prey upon you, whilſt you were all the day long ac<g ref="char:EOLhyphen"/>counted as ſheep for the ſlaughter, in the ſtreets of the great City of Confuſion, where you have been captives, mourning in deſolation, though you could not with delight partici<g ref="char:EOLhyphen"/>pate in her ſin? And therefore hath the Lord called you forth, and ſeparated you from among them, and ſaved you with a mighty ſalvation, and lifted up the light of his counte<g ref="char:EOLhyphen"/>nance upon you; and now is the Spirit of Life from God en<g ref="char:EOLhyphen"/>tered into you, that laid as ſlain in the ſtreets of the great Ci<g ref="char:EOLhyphen"/>ty, ſpiritually called <hi>Sodom</hi> and <hi>Aegypt.</hi>
+            </p>
+            <p>Wherefore ariſe, ariſe ye faithful and true Witneſſes of the Moſt High, over whom the Heatheniſh Inhabitants of the earth have made merry, &amp; lift up your voices like Trumpets, let the Word of God which is like fire, proceed out of your mouths, and let the high Praiſes of God be in your hearts; March up to Mount <hi>Sion</hi> in the ſight of your Enemies, that you may ſee the Judgement of the great Whore, the Beaſt and falſe Pro<g ref="char:EOLhyphen"/>phet taken alive, and deſtroyed together.</p>
+            <p>And dear Friends, whom God hath ſought out and purcha<g ref="char:EOLhyphen"/>ſed as his peculiar Treaſure, be faithful to that which is your profeſſed, declared, known principle, and approved practiſe in the external exerciſe of your Religion; confeſſe Chriſt before men, and contend earneſtly and with confidence in the day of tryal, for the Faith once delivered to the Saints, that it may appear &amp; be manifeſtly declared to all the world, that you have reſpect to Gods requirings, and love to his Law, and that you are not in rebellion, nor in tranſgreſſion againſt the Lord, nor unprofitable to the King, although you are ac<g ref="char:EOLhyphen"/>cuſed to be divers in your Laws and Cuſtoms at this day; for godlineſs is profitable unto all things: For this cauſe we pay tribute and pray for Kings and Rulers, that under them we may live peaceably in this preſent World, in all godlineſs and honeſty, as becometh Saint<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb n="3" facs="tcp:30728:2"/>
+            <p>Is the Decree ſealed againſt you, and the time prefixed, and Poſts gone forth, becauſe <hi>Mordecai</hi> cannot bow in obedience to the King's command? Well. And is there none to help nor to make ſupplication? Stand ſtil and ſee the ſalvation of God, the Enemy diſcomfited, and <hi>Iſraels</hi> off-ſpring ſafely delivered? Is there a Decree gone forth that none muſt meet, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r make prayers and ſupplication to God, but under great penalties? And wil not <hi>Daniel</hi> conform and obey the King's Laws? No, it's contrary to the Law of his God, and againſt the King hath he done nothing worthy of puniſhment. And is the way in which you worſhip the God of <hi>Daniel</hi> at this day called Hereſie? And muſt not five meet together to make in<g ref="char:EOLhyphen"/>terceſſion and ſupplication to God for all men, accor<g ref="char:EOLhyphen"/>ding to the practiſe of the primitive Chriſtians, but it muſt be accounted a tranſgreſſion of Law? Well, it's better to obey God then man in this caſe, and to ſuffer affliction for non-con<g ref="char:EOLhyphen"/>formity, with the eſtabliſhed, perſecuted people of God, then to make ſhipwrack of Faith and a good Conſcience, and ſo to be caſt out as abominable branches amongſt the workers of iniquity: Are you deſpiſed by <hi>Sanballat</hi> becauſe you are but a few in number, and feeble in appearance? Fear not little Flock, for the Lord is with you, and no Enchantment nor formed Weapon can prevail againſt you, for your Work is of God, and your Building wil ſtand in the ſtormy day. Are you now hated, reproached and perſecuted for your Religion and righteouſneſs? Rejoice and be exceeding glad, for this was the portion of your Predeceſſors the Prophets and holy Apo<g ref="char:EOLhyphen"/>ſtles, in the dayes of their pilgrimage in this World. Doth not the Fig-tree bloſſome? Is there no appearance of fruit in the Vine? Rejoice ye in the Lord, and truſt in the God of your ſalvation. Is Truth fallen in the Streets? Can Equity have no entrance? Are proud men accounted happy, and wickedneſs winked at? You that fear the Lord, and tremble at his Word, meet often together, and ſpeak comfortably one unto another, that the Lord may number your names among his Jewels. I ſay, neglect not the aſſembling of your ſelves to<g ref="char:EOLhyphen"/>gether, after the manner of ſome, whoſe day is turned into darkneſs, whoſe ſun is gone down at noon, and who are faln
+<pb n="4" facs="tcp:30728:3"/>among the uncircumciſed. But dear friends, enter all into the Mountain of the Lord's Houſe and hide your ſelves with<g ref="char:EOLhyphen"/>in the munition of Rocks, until the wrath of man be reſtrain<g ref="char:EOLhyphen"/>ed, and let every ſoul be ſubject to the power of Chriſt Je<g ref="char:EOLhyphen"/>ſus, and you that are ſtrong, watch over the weak, comfort the feeble-minded, bear one anothers burdens, ſay to them that are of a fearful heart, Be ſtrong: Conſider them that are in bonds, as bound with them, and as being members of the ſame body; build up one another in the moſt holy faith, endure hardſhips, as ſeeing him that is inviſible, with reſpect to the recompence of reward, the durable riches which are appointed for the faithful. Let not the glory of this Worlds Kingdom, external Liberty, the pleaſures of ſin, nor the trea<g ref="char:EOLhyphen"/>ſures of <hi>Aegypt,</hi> enter into your hearts to alienate your affe<g ref="char:EOLhyphen"/>ctions from your Head and Husband, the Bridegroom and Biſhop of your ſouls; let neither flattery nor fair ſpeeches draw you away from your ſtedfaſtneſs; fear not mens frowns, faint not in your minds, caſt not away your confidence, think it not ſtrange concerning the fiery tryal, as if ſome ſtrange thing had happened unto you, for the tryal of your faith is precious.</p>
+            <p>Is the agreement made, That whoſoever ſhall confeſs Chriſt to be come in the fleſh, either in practice, principle or decla<g ref="char:EOLhyphen"/>ration, ſhall be caſt out of the Synagogue, and into Dens and Priſons, Caves and naſty holes of the Earth; Fear not little Flock, fear none of the things that you are called to ſuffer; for God that made the World and all things in it, dwelleth not in Temples made with hands, neither doth he at this day require tythes and offerings, nor ſacrifices for ſin, but a bro<g ref="char:EOLhyphen"/>ken heart, and a contrite ſpirit is that in which he delighteth: obedience to his commands is better than ſacrifice; and to hear his voice, and do his will, is more acceptable than the fat of Rams: And if you ſuffer for Chriſts ſake as evil-doers <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen unto bonds, the Lord will comfort you in all your tri<g ref="char:EOLhyphen"/>bulations, and bring you forth with joy and gladneſs of veart, when your Teſtimony for him is faithfully finiſhed.</p>
+            <p>Is the times ſo perilous now, that none muſt buy and ſell but ſuch as will receive the mark of the Beaſt either in their
+<pb n="5" facs="tcp:30728:3"/>fore-heads, or in their right hand? Oh let the one hundred fourty and four thouſand that are redeemed from the Earth, and whoſe Names are written in Heaven, ſtand with the Lamb upon the Mountain where the houſe of the Lord is eſtabliſh<g ref="char:EOLhyphen"/>ed, that they may be abundantly ſatisfied with the Fatneſſe thereof, and that they may receive Milk and Wine, Bread and Water, without money and without price; and let the ſeven thouſand <hi>Iſraelites</hi> that cannot bow to the likeneſs of any thing, be alſo aſſembled together, that they may obtain joy and gladneſs, and receive the garments of praife for the Spi<g ref="char:EOLhyphen"/>rit of heavineſs, and that there may be one Lord, &amp; his name one, one ſheepfold, and one Shepherd; for in every place they that fear God and work righteouſneſs are accepted of him; and now is the Lord ſearching out his Flock that have wan<g ref="char:EOLhyphen"/>dered like loſt ſheep in the weary Wilderneſs, and upon the barren Mountains, that he may feed them with knowledge and underſtanding, and that they may go in, and forth by the door, and find paſture, and may hear the voice of the good ſhepherd, who hath loved them, and whom God hath exalted to be a Prince and a Saviour, that in all things he as Head of the Church may have the preheminence.</p>
+            <p>Have the High-Prieſts conſulted together to charge this Shepherds Flock to go follow him no more, nor to ſpeak no more in his Name, and why will they not obey Anthority? Becauſe its better to obey God, and to keep his command<g ref="char:EOLhyphen"/>ments, and to ſuffer perſecution with the people of God, when mans commands are contrary to the Law of God, than to deny Chriſt before men for fear of their wrath; for man's wrath worketh not God's righteouſneſs.</p>
+            <p>And ſo all you that have been with Jeſus, be bold to confeſs him, and to meet and ſpeak in his Name; for where-ever two or three are gathered together in his Name, it's ſo far from being an unlawful Meeting in Chriſts account, as that he hath promiſed to be preſent; and he is not limited to time, num<g ref="char:EOLhyphen"/>ber or place, three, four, or five thouſand; for its his will that men ſhould pray every where, lifting up holy hands, without wrath or doubting; and he that is afflicted, let him pray, and he that loveth the Lord Jeſus, muſt keep his commandments,
+<pb n="6" facs="tcp:30728:4"/>and follow his example, for he prayed and ſpoke among the multitude in the Mountains and in the Deſerts, in Ships, and by the ſea-ſide, and the Apoſtles ſpoke to the people that re<g ref="char:EOLhyphen"/>ſorted to the Rivers ſide, where prayers uſe to be made.</p>
+            <p>Is refuſing to ſwear in any cauſe, accounted a tranſgreſſion at this day? Who then is the Author of this treſpaſs? Is Chriſt the Author of ſin? Or did he come to deſtroy the Law? Nay, he came to fulfil it, and he is the end of the Law for righte<g ref="char:EOLhyphen"/>ouſneſs unto all believers; and as in old time it was ſaid, <hi>Thou ſhalt not forſwear thy ſelf;</hi> ſo now faith Chriſt, <hi>A new Command<g ref="char:EOLhyphen"/>ment give I unto you, Swear not at all,</hi> which is as obligatory to Chriſtians, and as exactly to be obſerved, as <hi>Thou ſhalt not ſteal, Thou ſhalt not kill, Thou ſhalt not commit Adultery,</hi> or any other command going before; And ſuch as are conſtrained with love to God, muſt manifeſt it by their reverent reſpect to all his commandments; and if in this cauſe you, or any of you be called in queſtion, let all men know that its for your obe<g ref="char:EOLhyphen"/>dience to Chriſt, and not out of contempt to Government; and when you are hated of the Nations for his Name ſake, and in obedience to his commands. Lift up your heads, for your ſalvation is nearer then when you firſt believed; and hi<g ref="char:EOLhyphen"/>therto hath the Lord been a preſent help in the time of trou<g ref="char:EOLhyphen"/>ble, notwithſtanding the great oppoſition of your adverſaries, that you being delivered from the hands of your oppreſſors, might ſerve him in holineſs all your life long, as a people ſaved by him for the ſame purpoſe. Oh how hath the Lord appeared in an acceptable time for your deliverance out of deſolation, when you wandered in the Wilderneſs in a dark and ſolitary way; and how hath he lifted up the light of his countenance upon you in the dayes of your infancy! He hath ſupported you, and his candle hath ſhined upon your heads, his ſecret was upon your Tabernacle, and his Word a light unto your pathes: when you had but a little ſtrength he carryed you in his arms, and led you gently by the footſteps of the Flock when you were but young; and he hath planted you now as a noble vine, that your renown may go forth among the Heathen round about; and you are the Salt of the Earth, and as a City ſet on a Hill, that cannot be hid; and this is the day of your
+<pb n="7" facs="tcp:30728:4"/>tryal, ſo my dear brethren and ſiſters, be faithful in it, and the Lord will make you a Family like a Flock: His Name wil be a ſtrong Tower unto you, in which you may retire with ſafety when he pours contempt upon profeſſors and prophane, that have ſtarted aſide like a broken bow in the day of their tryal; you are the onely people known unto me among all the Fa<g ref="char:EOLhyphen"/>milies of the Earth, that are fully perſwaded in your own minds in matters of Worſhip and Ordinances, Principles and Practiſes in ſpiritual things at this day; and therefore I love you and honor you, and I believe the Lord will crown you with righteouſneſs, and make you an eternal excellency, even the joy of many generations, that the Gentiles may come to your Light, and Kings of Nations to the brightneſs of your riſing; for the Lord is your everlaſting Light, and the dayes of your mourning ſhall ſhortly have an end.</p>
+            <p>
+               <hi>Theſe ſayings were in my heart and mind, which I have now commit<g ref="char:EOLhyphen"/>ted to Paper to be copied and communicated among Friends, as a confir<g ref="char:EOLhyphen"/>mation of my communion with all the Saints, at liberty and in bonds for the Teſtimony of Jeſus, and the Word of God, and in the fellowſhip of the Saints in Light, and in the fulneſs of the bleſſing of the Goſpel, I reſt with you, and am your real and faithful friend, and fellow-ſer<g ref="char:EOLhyphen"/>vant in the houſhold of faith.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Cornwall</hi> 
+                  <date>the <hi>24th</hi> day of the 8th. Month, 1662.</date>
+               </dateline>
+               <signed>Thomas Salthouſe.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:30728:5"/>
+            <head>To the Brethren in the travel and perfect Liberty (in the holy accepta<g ref="char:EOLhyphen"/>ble Faith) through the ſufferings of the free born, unchangeable ſeed of Truth, whether in bonds or otherwiſe beſet, in <hi>London</hi> or elſewhere, throughout the Land, Greetings of pure and perfect love, in the bleſſed ſavour of Grace, Peace and Truth herewith is ſent; that which is ariſen up, and ſprings forth from one and the ſame clear innocent Teſtimony of Jeſus Chriſt our Lord, for whoſe Name ſake ye ſuffer; my ſoul that liveth in the proſperity and ſuffering of your life, beareth record not onely to your conſolation, but for your faith<g ref="char:EOLhyphen"/>fulneſs to the right Way and pure Worſhip of the living inviſible God of Eternity, over all bleſſed for ever. <hi>Amen.</hi>
+            </head>
+            <p>MY dear Friends, in the bleſſed unity &amp; fellowſhip of the Eternal Goſpel of God, in the life of Immorta<g ref="char:EOLhyphen"/>lity which is brought to light hereby, yea and in the holy, lively, ſtedfaſt Faith, which ſtands in the ſame in every particular of us, who have aſſuredly believed in it, for our comfort and edification in the bleſſed love of the bleſ<g ref="char:EOLhyphen"/>ſed truth, in which is no variableneſs, no not ſo much as the ſhadow of turning: Verily in the ſame is the right dear ſaluta<g ref="char:EOLhyphen"/>tion of the kindneſs of my very heart and precious life, to you in the Fathers bowels of tenderneſs and everlaſting pity and compaſſion, the which I am well perſwaded reacheth to, and among, and in every particular of you, more o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> leſs, that live and dwell in the Fountain of the pure fear of the Lord, with your pure minds girt up ſtedfaſt and entire to him, and of his Eternal Riches are made partakers more or leſs in your own, day by day, morning by morning, becauſe his mercies and bountifulneſs endureth for ever, in his own life and goodneſs, in the hid treaſures of his Houſe that's immovably founded upon the ſure and ſtedfaſt foundation of bleſſedneſs, that is ſure from generation to generation, from everlaſting to ever<g ref="char:EOLhyphen"/>laſting, even the pure Rock of Ages, the perfect foundation of
+<pb n="9" facs="tcp:30728:5"/>many generations; behold, this is our Rock and hiding place of refuge, and conſolation in all our diſtreſſes, even as it was our Fathers of old.</p>
+            <p>Wherefore lift up the head ye bleſſed of the Lord, and o<g ref="char:EOLhyphen"/>pen ye everlaſting Gates of praiſe; what though ſtorms ariſe, and dark tempeſts wheel about, and floods beat, and troubled Seas ſwell, and the proud Waves lift up their heads, and riſe with violence again and again againſt us, as our eyes hath ſeen; well, yet let us be ſtil, be glad, and rejoice in the ever<g ref="char:EOLhyphen"/>laſting kindneſs and tenderneſs of our God that lives for ever, who delighteth in them that fear him, that ſits upon the floods in the Ark of his Almightineſs, and guides with his eye and skilfulneſs of his hand, and openeth his bowels of healing and ſaving-health unto the upright in heart, that in any wiſe cannot be aſhamed of his bleſſed and manifold appearances; but confeſs him, and truſt in him among, and before the ſons of men, and as ſo many pillars of eternal righteouſneſs hold<g ref="char:EOLhyphen"/>ing forth the pure Teſtimony of innocency, and as an Enſign to the Nations, the ſame in the bleſſed wiſdom of the juſt, living Lord of Life from on high, the ſame is diſplayed over the heads of the uncircumciſed in heart, ſo that many ſweet<g ref="char:EOLhyphen"/>ly ſavour the heavenly diſtillings of the pure, clear breath of immortality, eternal life, which is breathed forth, and ſo richly manifeſted and brought to light, which flouriſheth in the midſt of the Houſe of <hi>Iſrael,</hi> and dwelleth in the tents of little, ſmall <hi>Jacob,</hi> who is ariſing in the eternal ſtrength of his mighty God, to poſſeſs the Gate of his Enemies, and to tread upon the high places of the Earth; Oh feel his triumph in every particular, in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithfulneſs of the God of good old <hi>Abraham</hi> and his Seed, to which all the exceeding great and precious promiſes pertain, againſt which no formed Weapon can proſper, albeit the crafts-men and cunning Inventers be never ſo skilful and artificial, the counſel of the Lord God o<g ref="char:EOLhyphen"/>ver all ſhall ſtand, and his living Word of Life and Salvation ſhall endure for ever the ſame, without any variableneſs, as it was in the beginning with God bleſſed for ever, <hi>Amen.</hi>
+            </p>
+            <p>And with you my dearly beloved brethren, ye Fathers, Elders and Pillars of bleſſedneſs, my ſoul right dearly loveth
+<pb n="10" facs="tcp:30728:6"/>you, and cleaveth unto you, in whom the Word of Eternal Life hath an abiding-place in the ſanctifying power and hea<g ref="char:EOLhyphen"/>venly virtue of the ſame, is that which adorns the taberna<g ref="char:EOLhyphen"/>cles of the juſt, and fills the upright-hearted with gladneſs, and cauſeth the little Babes of Life to reign with unſpeakable joy, in peace and quietneſs, and alſo reneweth the bleſſed ſtrength of young men to wax grave, temperate, bold and valiant in the renowned Faith of the Worthies of old, ſo that both old and young, high and low, babes and little ones, are on this wiſe bleſſed with the ſweet ſavour of the goodneſs of our God: Oh what ſhall I ſay! words are all inſufficient to de<g ref="char:EOLhyphen"/>monſtrate: Is it not even ſo, and much more? let the life of pure virtue and laſting righteouſneſs, bear me record concer<g ref="char:EOLhyphen"/>ning this ſalvation which is unutterable, to declare the depth and riches of the ſame which hath no end. Well, the bleſſed day and ſeaſon is ſo manifeſtly approached, and ſhining over us, that many words are not to be multiplied to tell you of theſe things, who are made partakers and lively Witneſſes of the ſame; yet a little you may well bear with me, becauſe I perfectly love you, and in the ſame I greet you my dear Friends, every particular of you in your own, without reſpect of perſons, whether in bonds or at liberty, my heart is one with you, your ſouls are as mine; ye lively Saints in light, if you ſuffer, how can I rejoice? if you lament and mourn be<g ref="char:EOLhyphen"/>cauſe of oppreſſion, ſo do I; and the Father's bowels of kind<g ref="char:EOLhyphen"/>neſs and tender pity hovereth over us to our conſolation; and ſo however it be, its well with us in the heavenly exerciſe of our pure minds, in the unlimited Spirit of holineſs, and ſan<g ref="char:EOLhyphen"/>ctifying power of bleſsedneſs, in the fear of the Lord God: So Grace and Life, Love and Peace, of eternal goodneſs be en<g ref="char:EOLhyphen"/>creaſed and multiplied, and abound more and more in every particular (to be witneſsed) over all, Yea and Amen, by the pure hand of Immortal life and virtue, to his glory that liveth for ever in the everlaſting Light, in which I ſalute you all; as I began my voice, ſo in the ſame I finiſh to you-ward at this time; onely in the perfect love and unity I commend every of you to the pure manifeſtation of the living Lords life, in the
+<pb n="11" facs="tcp:30728:6"/>ſame that is inviſible, eternal and unchangeable, and fadeth not to be preſerved unto the coming of our Lord Jeſus Chriſt in fulneſs and mighty power and glory: Bleſsed are all that in uprightneſs love (and wait for) his appearance and King<g ref="char:EOLhyphen"/>dom over all, <hi>Amen</hi> and <hi>Amen.</hi>
+            </p>
+            <p>Friends in this Countrey do well univerſally, and the love of the truth proſpereth wel in them: Meetings are quiet yet, onely ſix at preſent Priſoners for meeting. Truth encreaſeth with its good ſavour in the hearts of many here away; Right dearly, friends are affected with your cruel ſufferings &amp; faith<g ref="char:EOLhyphen"/>fulneſs, and in our prayers, ſighs and groans, we cannot forget you, as we are well perſwaded neither can you forget us like<g ref="char:EOLhyphen"/>wiſe, as it becometh Saints. Farewel:</p>
+            <closer>
+               <dateline>
+                  <hi>Shrewsbury</hi> Town-Gaol for the bleſsed clear teſtimony of the right way and pure wor<g ref="char:EOLhyphen"/>ſhip of the Lord Jeſus, a pri<g ref="char:EOLhyphen"/>ſoner <date>this 14. of the 9. Mon. 1662.</date>
+               </dateline>
+               <signed>In the faith and long-ſuf<g ref="char:EOLhyphen"/>fering patience of the Saints in light, I am your compani<g ref="char:EOLhyphen"/>on and brother, <hi>Daniel Baker.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>A heavenly Voice to the Mourners in <hi>Sion,</hi> and to all that ſigh and languiſh within the borders of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> is this tender Salutation.</head>
+            <l>
+               <hi>O Jeruſalem! Jeruſalem!</hi> why art thou thus diſmaid?</l>
+            <l>Thy King doth live and reign in truth, thou needſt not be afraid:</l>
+            <l>Behold a Cup of mourning's put in thy hand,</l>
+            <l>That all may mourn with thee within thy Land.</l>
+            <l>What though thou mourn a while, as in the darkeſt night,</l>
+            <l>Thy joy ſhall far ſurmount the ſame with triumph in the clear light.</l>
+            <pb n="12" facs="tcp:30728:7"/>
+            <l>Oppreſſed <hi>Sion, Sion,</hi> thy precious tears why do they thus run down,</l>
+            <l>As if the Comforter for thee could now be found?</l>
+            <l>My Soul for thee doth make her moan in love,</l>
+            <l>Becauſe thy travel's great thou harmleſs Dove.</l>
+            <l>Drink down thy mourning ſpirit, ableſſing is herein</l>
+            <l>To heal thy bleeding wounds by men of ſin.</l>
+            <l>Thy Comfortor is near, be not diſmay'd,</l>
+            <l>Thy mighty God is nigh to give thee aid.</l>
+            <l>His perfect Eye beholds his Enemies ſo ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut,</l>
+            <l>They ſmite and wound thy Life, and caſt thee out.</l>
+            <l>But how the Bowels of thy Fathers God doth roul,</l>
+            <l>None know ſave they that feel the travel of thy ſoul.</l>
+            <l>(But why, how long, oh Lord?)</l>
+            <l>Oh <hi>Sion! Sion!</hi> thy God long ſuffering ſtands,</l>
+            <l>He alſo feels thy wounds even from thy Enemies hands.</l>
+            <l>But why, how long oh Lord? how canſt thou long for bear,</l>
+            <l>Whilſt Bears, Wolves, Lyons ſtrong, ſpare not to tear</l>
+            <l>The outſide Hedges of thy Vinyards choice?</l>
+            <l>Ariſe thou King of Life, and thunder forth thy voice:</l>
+            <l>With thy Eternal Word (thy Sword) ſmite on amain,</l>
+            <l>Let <hi>Sions</hi> Enemies (ſo ſtout) by thee be ſlain:</l>
+            <l>And let the Light of thy ſweet Life flame forth,</l>
+            <l>Becauſe thine Off-ſpring's bleſt, whoſe riſe was in the North.</l>
+            <l>Thou bleſſed ſeed of life, my ſoul doth honor thee,</l>
+            <l>Becauſe thy living God Eternal, ſo doth he.</l>
+            <l>Thy Fame, thy Name, thy birth thy living Lord hath bleſt,</l>
+            <l>Thy habitation's glorious, in which my ſoul doth reſt.</l>
+            <closer>
+               <signed>D. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:30728:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
